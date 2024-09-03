@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    font-family: "Noto Sans", sans-serif;
+}
+
+.monitor {
+    background-color: rgb(233, 240, 240);
+    width: 500px;
+    min-height: 32px;
+    font-size: 20px;
+    margin: 30px 0 30px 0;
+    overflow: auto;
+    border-radius: 10px;
+    padding: 0 10px 0 10px;
+}
+
+span#monitor {
+    vertical-align: middle;
+}
+
+.container {
+    height: 100vh;
+}
+
+button {
+    margin: 1px !important;
+}
+
+button#solve {
+    background-color: orange;
+    border: orange;
+}
+
+button#clear {
+    background-color: grey;
+    border: grey;
+}
+
+button#delete {
+    background-color: grey;
+    border: grey;
+}
+
+.buttons {
+    display: flex;
+    gap: 30px;
+}
+
+.operator button {
+    width: 35px;
+}
+
+footer p {
+    margin-top: -30px;
+    margin-bottom: 0;
+    color: silver;
+}
+
+footer a {
+    color: rgb(212, 38, 212);
+}
