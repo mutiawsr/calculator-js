@@ -1,5 +1,5 @@
 # Calculator Web App
-As part of my learning journey, I made a simpla yet functional calculator built using HTML, CSS, JavaScript, and Bootstrap. The calculator supports basic arithmetic operations like addition, subtraction, multiplication, and division. Designed with a clean and responsive user interface, it adapts well to both desktop and mobile devices.
+As part of my learning journey, I made a simple yet functional calculator built using HTML, CSS, JavaScript, and Bootstrap. The calculator supports basic arithmetic operations like addition, subtraction, multiplication, and division. Designed with a clean and responsive user interface, it adapts well to both desktop and mobile devices.
 
 # Features
 1. Basic Operations: Perform addition, subtraction, multiplication, and division.
