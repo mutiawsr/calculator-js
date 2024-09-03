@@ -57,7 +57,11 @@ footer p {
 }
 
 footer a {
-    color: rgb(212, 38, 212);
+    color: rgb(119, 209, 197);
+}
+
+footer a:visited {
+    color: rgb(119, 209, 197);
 }
 
 @media screen and (max-width: 520px) {
