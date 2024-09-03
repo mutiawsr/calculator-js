@@ -59,3 +59,12 @@ footer p {
 footer a {
     color: rgb(212, 38, 212);
 }
+
+@media screen and (max-width: 520px) {
+    .monitor {
+        width: 300px;
+    }
+    .buttons {
+        display: block;
+    }
+}
