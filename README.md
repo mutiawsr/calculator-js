@@ -13,7 +13,7 @@ As part of my learning journey, I made a simple yet functional calculator built 
 3. Start calculating!
 
 ## Tech Stack
-HTML5 for structure
-CSS3 for styling
-JavaScript for functionality
-Bootstrap for responsive design
+- HTML5 for structure
+- CSS3 for styling
+- JavaScript for functionality
+- Bootstrap for responsive design
